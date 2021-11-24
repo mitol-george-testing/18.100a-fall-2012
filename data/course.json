@@ -1,0 +1,38 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Logic"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "583cc582-1f48-236c-af5a-b2f4750fef40"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Analysis",
+  "course_description": "Analysis I (18.100) in its various versions covers fundamentals of mathematical analysis: continuity, differentiability, some form of the Riemann integral, sequences and series of numbers and functions, uniform convergence with applications to interchange of limit operations, some point-set topology, including some work in Euclidean n-space.\n\nMIT students may choose to take one of three versions of 18.100: Option A (18.100A) chooses less abstract definitions and proofs, and gives applications where possible. Option B (18.100B) is more demanding and for students with more mathematical maturity; it places more emphasis from the beginning on point-set topology and n-space, whereas Option A is concerned primarily with analysis on the real line, saving for the last weeks work in 2-space (the plane) and its point-set topology. Option C (18.100C) is a 15-unit variant of Option B, with further instruction and practice in written and oral communication.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.100A",
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
